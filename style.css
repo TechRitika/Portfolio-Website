@@ -1,0 +1,45 @@
+body {
+    font-family: sans-serif;
+    background-color: lightcyan;
+    margin: 0;
+    padding: 0;
+  }
+  
+  h1 {
+    font-size: 2em;
+    margin-top: 0;
+  }
+  
+  h2 {
+    font-size: 1.5em;
+    margin-top: 0;
+  }
+  
+  p {
+    margin-bottom: 1em;
+  }
+  
+  a {
+    text-decoration: none;
+  }
+  
+  header {
+    background-color:lightcoral;
+    padding: 2em;
+  }
+  
+  main {
+    margin-top: 2em;
+  }
+  
+  section {
+    margin-bottom: 2em;
+  }
+  
+  footer {
+    background-color:wheat ;
+    padding: 2em;
+  }
+
+  
+  
